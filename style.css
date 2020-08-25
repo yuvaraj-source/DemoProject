@@ -1,0 +1,34 @@
+#heading {
+    color: red;
+    background-color: black;
+}
+#sub-heading {
+    color: brown;
+    background-color: yellow;
+}
+.state {
+    color: orange;
+    background-color: green;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 17px;
+    width: 108px;
+    height: 64px;
+    font-size: 14px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: yellowgreen;
+ 
+}
+.red{
+ background-color: yellowgreen;
+}
+.blue{
+background-color: red;
+}
+
+
